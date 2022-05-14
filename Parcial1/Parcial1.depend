@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1652489748 source:c:\proyectos\parcial1\parcial1.c
+	<stdio.h>
+	<stdlib.h>
+	"Parcial1.h"
+	"LibreriaTrabajo.h"
+	"Validaciones.h"
+	<ctype.h>
+	<string.h>
+
+1652489655 c:\proyectos\parcial1\parcial1.h
+
+1652489748 source:c:\proyectos\parcial1\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	"Parcial1.h"
+	<ctype.h>
+	<string.h>
+
+1652489696 source:c:\proyectos\parcial1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Parcial1.h"
+	"LibreriaTrabajo.h"
+	"Validaciones.h"
+	<ctype.h>
+	<string.h>
+
+1652489454 c:\proyectos\parcial1\libreriatrabajo.h
+
+1652489216 source:c:\proyectos\parcial1\libreriatrabajo.c
+	<stdio.h>
+	<stdlib.h>
+	"Parcial1.h"
+	"LibreriaTrabajo.h"
+
+1652489728 c:\proyectos\parcial1\validaciones.h
+
